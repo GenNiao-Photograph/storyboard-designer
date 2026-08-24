@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 视频分镜表设计"
+  short_description: "按首尾帧提示法生成规范化的分镜表 Excel"
+  default_prompt: "使用 $storyboard-designer 为这段旁白生成 AI 视频分镜表。"
